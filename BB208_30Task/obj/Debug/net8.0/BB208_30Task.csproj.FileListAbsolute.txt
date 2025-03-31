@@ -1,0 +1,14 @@
+C:\Users\rzaza\source\repos\BB208_30Task\BB208_30Task\bin\Debug\net8.0\BB208_30Task.exe
+C:\Users\rzaza\source\repos\BB208_30Task\BB208_30Task\bin\Debug\net8.0\BB208_30Task.deps.json
+C:\Users\rzaza\source\repos\BB208_30Task\BB208_30Task\bin\Debug\net8.0\BB208_30Task.runtimeconfig.json
+C:\Users\rzaza\source\repos\BB208_30Task\BB208_30Task\bin\Debug\net8.0\BB208_30Task.dll
+C:\Users\rzaza\source\repos\BB208_30Task\BB208_30Task\bin\Debug\net8.0\BB208_30Task.pdb
+C:\Users\rzaza\source\repos\BB208_30Task\BB208_30Task\obj\Debug\net8.0\BB208_30Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rzaza\source\repos\BB208_30Task\BB208_30Task\obj\Debug\net8.0\BB208_30Task.AssemblyInfoInputs.cache
+C:\Users\rzaza\source\repos\BB208_30Task\BB208_30Task\obj\Debug\net8.0\BB208_30Task.AssemblyInfo.cs
+C:\Users\rzaza\source\repos\BB208_30Task\BB208_30Task\obj\Debug\net8.0\BB208_30Task.csproj.CoreCompileInputs.cache
+C:\Users\rzaza\source\repos\BB208_30Task\BB208_30Task\obj\Debug\net8.0\BB208_30Task.dll
+C:\Users\rzaza\source\repos\BB208_30Task\BB208_30Task\obj\Debug\net8.0\refint\BB208_30Task.dll
+C:\Users\rzaza\source\repos\BB208_30Task\BB208_30Task\obj\Debug\net8.0\BB208_30Task.pdb
+C:\Users\rzaza\source\repos\BB208_30Task\BB208_30Task\obj\Debug\net8.0\BB208_30Task.genruntimeconfig.cache
+C:\Users\rzaza\source\repos\BB208_30Task\BB208_30Task\obj\Debug\net8.0\ref\BB208_30Task.dll
